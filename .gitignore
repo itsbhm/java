@@ -1,3 +1,6 @@
 #Hidden System Files
 .DS_Store
 Thumbs.db
+
+# Ignore complied class files
+*.class
